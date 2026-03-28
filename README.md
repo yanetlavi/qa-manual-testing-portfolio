@@ -1,23 +1,50 @@
-# qa-manual-testing-portfolio
-Manual Qa testing portfolio including test cases, bug reports and test plans.
+# 🧪 QA Manual Testing Portfolio
 
-Skills
--Manual Testing
--Test Case Design
--Bug Reporting
--Jira
--Agile Methodology
+This repository contains my practice work in Manual QA Testing.
 
+## 📌 Project Overview
+Tested a demo e-commerce website (SauceDemo) focusing on:
+- Functional testing
+- Negative testing
+- UI/UX validation
 
-Tools
--Jira
--Chrome Devtools
--Google Sheets
+---
 
-Projects
-This portfolio will include:
+## 📂 Contents
 
--Test Plans
--Test Cases
--Bug Reports
--Jira Issue Examples
+### ✅ Test Scenarios
+High-level scenarios covering login functionality
+
+### ✅ Test Cases
+Detailed test cases including:
+- Valid login
+- Invalid login
+- Edge cases
+
+### 🐞 Bug Reports
+Documented bugs with:
+- Steps to reproduce
+- Expected vs actual results
+- Severity & priority
+
+---
+
+## 🛠 Tools Used
+- Google Sheets
+- Jira (basic knowledge)
+- Manual Testing Techniques
+
+---
+
+## 🎯 Skills Demonstrated
+- Writing test scenarios
+- Creating test cases
+- Bug reporting
+- Identifying edge cases
+- Thinking from user perspective
+
+---
+
+## 🚀 Next Steps
+- Learn API testing
+- Learn automation testing (Selenium / Python)
